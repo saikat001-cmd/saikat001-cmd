@@ -1,6 +1,4 @@
-## <div align="center">
-<h1> Hi 👋, I'm Saikat Karmaker </h1>
-</div>
+<h1 align="center">Hi 👋, I'm Saikat Karmaker </h1>
 
 
 <!--
