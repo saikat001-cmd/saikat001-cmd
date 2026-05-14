@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Karmaker </h1>
+<p align="center">Learning, building, and growing every day.</p>
 
 
 <!--
